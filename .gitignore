@@ -1,4 +1,3 @@
 covid_data.db
-covid-deaths.csv
-covid-vaccination.csv
 data-source.txt
+convert_dates_in_sql.txt
