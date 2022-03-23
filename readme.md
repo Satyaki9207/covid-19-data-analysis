@@ -1,5 +1,5 @@
 ## Covid-19 Analysis
-The tableau dashboard can be found [here](https://public.tableau.com/app/profile/satyaki8517/viz/covid-dashboard_16480502398000/Dashboard1)
+The tableau dashboard can be found [here](https://public.tableau.com/app/profile/satyaki8517/viz/covid-dashboard_16480502398000/Dashboard1)<br>
 All the sql code can be found in the covid-19-data-analysis.ipynb file<br>
 All data presented in the analysis is as of 16-March-2022
 
