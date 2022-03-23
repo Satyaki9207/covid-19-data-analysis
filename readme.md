@@ -1,5 +1,5 @@
 ## Covid-19 Analysis
-Data source can be found [here](https://ourworldindata.org/covid-deaths)<br>
+The tableau dashboard can be found [here](https://public.tableau.com/app/profile/satyaki8517/viz/covid-dashboard_16480502398000/Dashboard1)
 All the sql code can be found in the covid-19-data-analysis.ipynb file<br>
 All data presented in the analysis is as of 16-March-2022
 
@@ -22,4 +22,4 @@ The following questions are answered through this analysis
 + Python
 + Tableau
 
-The tableau dashboard can be found [here](https://public.tableau.com/app/profile/satyaki8517/viz/covid-dashboard_16480502398000/Dashboard1)
+Data source can be found [here](https://ourworldindata.org/covid-deaths)<br>
